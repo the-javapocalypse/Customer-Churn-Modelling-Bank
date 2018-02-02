@@ -16,4 +16,4 @@ This problem is solved by using an Artificial Nueral Network (ANN). The instruct
 * 85% Accuracy = Silver
 * 86%+ Accuracy = Gold
 
-I tired different topologies for the ANN (Deeper Topology vs Wider Topology. [Read More](https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)) with the combinations of different optimizers, dropouts etc. and found out that the deeper architecture with no dropout resulted in 86.7% Accuracy.
+I tired different topologies for the ANN (Deeper Topology vs Wider Topology. [Read More](https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)) with the combinations of different optimizers, dropouts etc. and found out that the deeper architecture with no dropout resulted in __86.8% Accuracy__.
